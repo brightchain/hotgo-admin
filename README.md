@@ -2,7 +2,7 @@
 <div align="center">
 	<img width="140px" src="https://gmycos.facms.cn/hotgo/logo.sig.png">
     <p>
-        <h1>HotGo V2</h1>
+        <h1>HotGo admin</h1>
     </p>
     <p align="center">
         <a href="https://goframe.org/pages/viewpage.action?pageId=1114119" target="_blank">
